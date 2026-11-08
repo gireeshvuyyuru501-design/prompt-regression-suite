@@ -21,3 +21,32 @@ The runner downloads SQuAD validation data from Stanford's public URL on first u
 - Expose a FastAPI endpoint for the unified React dashboard
 
 Dataset: https://rajpurkar.github.io/SQuAD-explorer/
+
+<!-- PORTFOLIO-OVERVIEW-START -->
+
+## Project overview
+
+Compare offline heuristic results against SQuAD references to detect evaluation regressions.
+
+### Technologies and concepts
+
+ - python
+ - prompt testing
+ - regression testing
+ - squad
+ - ai evaluation
+
+### Repository information
+
+- **Category:** AI Quality Engineering / Software Testing
+- **Evaluation type:** Offline and/or synthetic fixtures, as documented in this repository
+- **Source code:** [GitHub repository](https://github.com/gireeshvuyyuru501-design/prompt-regression-suite.git)
+- **License:** MIT (subject to repository license file)
+
+### AI Quality Engineering portfolio
+
+This project is part of an 11-project portfolio covering evaluation datasets, structured-output validation, offline scoring, prompt regression, retrieval benchmarking, adversarial testing, agent tool calls, and quality monitoring.
+
+[Explore the integrated AI Quality Engineering Platform](https://github.com/gireeshvuyyuru501-design/ai-quality-engineering-platform)
+
+<!-- PORTFOLIO-OVERVIEW-END -->
